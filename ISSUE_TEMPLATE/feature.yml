@@ -1,0 +1,16 @@
+name: 💡 Feature Request
+description: Got an idea? Bring it.
+title: "[FEATURE] "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Lay it on us. What would make your life better, smarter, or weirder?
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's the idea?
+      description: No bad ideas here. Just incomplete ones waiting to be shipped.
+    validations:
+      required: true

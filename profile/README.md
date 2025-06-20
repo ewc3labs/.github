@@ -18,9 +18,9 @@ Your support helps keep the tools flowing — no paywalls, no closed STLs, no ha
 
 ## 🧠 Projects
 
-| Project | Description |
-|---------|-------------|
-| [`excel-power-query-editor`](https://github.com/ewc3labs/excel-power-query-editor) | A toolkit for crafting, formatting, and versioning complex Power Query M code for Excel and Power BI |
+| Project          | Description |
+|------------------|-------------|
+| [`excel-power-query-editor`](https://github.com/ewc3labs/excel-power-query-editor) | A modern, reliable VS Code extension for editing Power Query M code from Excel files, using the amazing [excel-datamashup](https://github.com/Vladinator/excel-datamashup) from [Vladinator](https://github.com/Vladinator), inspired by and improving upon [EditExcelPQM](https://github.com/amalanov/EditExcelPQM) |
 | *(more coming soon)* | |
 
 ---

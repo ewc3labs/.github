@@ -1,0 +1,21 @@
+name: 🐞 Bug Report
+description: Something broke. We want to hear about it.
+title: "[BUG] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Help us squash it like a rogue print blob.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us everything. Even the dumb stuff.
+    validations:
+      required: true
+  - type: textarea
+    id: repro-steps
+    attributes:
+      label: Steps to Reproduce
+      description: What would we need to do to see the problem ourselves?
