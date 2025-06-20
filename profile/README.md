@@ -12,6 +12,8 @@ If you’ve ever said “Why didn’t they just…?” — I might have already 
 
 Your support helps keep the tools flowing — no paywalls, no closed STLs, no half-assed solutions. Just open-source, over-engineered weirdness made useful.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ewc3labs)
+
 ---
 
 ## 🧠 Projects
