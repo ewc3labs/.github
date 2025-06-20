@@ -1,6 +1,6 @@
 # 🧪 EWC3 Labs
 
-Welcome to **EWC3 Labs** — a skunkworks of code, plastic, and bulldog farts.
+Welcome to **EWC3 Labs** — a skunkworks of code, plastic, and canine gaseous emissions.
 
 We build smarter tools, better mods, and deeply unnecessary upgrades. From 3D printing to automation scripts, parametric design to AI-assisted chaos.
 
@@ -29,14 +29,14 @@ Your support helps keep the tools flowing — no paywalls, no closed STLs, no ha
 
 - **Design with intent** — Not just "cool," but useful, reusable, and open-source.
 - **Toolify everything** — If we use it twice (or—who am I kidding—even once), it gets versioned and published.
-- **No gatekeeping** — All skill levels welcome. Hackers, tinkerers, bulldog supervisors, pug lovers.
+- **No gatekeeping** — All skill levels welcome. Hackers, tinkerers, pug supervisors, bulldog lovers.
 - **Snark is encouraged** — Humor, clarity, and style are features, not bugs.
 
 ---
 
 ## 🐾 Shop Gremlin Program
 
-Yes, our canine lab assistants supervise QA and design meetings. No, they do not accept pull requests (but they *will* accept treats).
+Yes, our canine lab assistants (pugs, bulldogs, and mutts alike) supervise QA and design meetings. No, they do not accept pull requests (but they *will* accept treats).
 
 ---
 
@@ -54,4 +54,3 @@ Yes, our canine lab assistants supervise QA and design meetings. No, they do not
 > *“If it ain't broke, mod it until it is.” —EWC3*
 >
 > *“Make cool shit, put it on the internet, see where it goes.” —AvE*
-
